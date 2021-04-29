@@ -1,0 +1,78 @@
+a {
+				color: rgb(102, 191, 191)  ;
+				padding: 0.3125rem ;
+				text-align: left ;
+				font-size: 2.5rem ;
+}
+
+h1{
+				font-family: 'Dancing Script', cursive ;
+				color: rgb(102, 191, 191) ;
+				padding: 0.3125rem ;
+				text-align: center ;
+				font-size: 5rem ;
+}
+
+h2{
+				font-family: 'Dancing Script' , cursive ;
+				color: rgb(102, 191, 191) ;
+				padding: 0.3125rem ;
+				text-align: center ;
+				font-size: 2.5rem ;
+}
+
+ol{
+				margin-left: 2.25rem;
+}
+
+.aasmaan{
+				border-radius: 50%;
+				height: 10rem;
+				width: 10rem;
+				margin-left: 25rem;
+				margin-top: 2rem;
+}
+
+.btn {
+				background: linear-gradient(rgb(17, 205, 212), rgb(17, 153, 158)) rgb(17, 205, 212);
+				border-radius: 0.5rem;
+				font-family: 'Montserrat', sans-serif;
+				color: rgb(255, 255, 255);
+				font-size: 1.51rem;
+				padding: 0.625rem 1.25rem;
+				text-decoration: none;
+}
+
+.btn:hover {
+				background: linear-gradient(rgb(48, 227, 203), rgb(43, 196, 173)) rgb(48, 227, 203); text-decoration: none;
+}
+
+.button{
+				margin: 2.5rem auto 3.75rem;
+				width: 20%;
+}
+
+.cloud{
+				height: 7.5rem;
+				width: 15rem;
+				margin-left: 2.5rem;
+				margin-right: 2.5rem;
+				margin-top: 2.5rem;
+}
+
+.image{
+				background-color: rgb(102, 191, 191);
+				border-radius: 50%;
+				height: 10rem;
+				width: 10rem;
+				margin-left: 25rem;
+				margin-top: 2rem;
+}
+
+	.mountain{
+					margin-left: 13rem ;
+	}
+
+.top-container{
+				background-color: rgb(228, 249, 245);
+}
